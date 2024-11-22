@@ -1,16 +1,3 @@
 # zrt_interview
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Implemented MVC with GetX for state management, including debouncing and cached network images for memory efficiency. Used a simple and clear UI structure with a folder organization into model, view, data, and controller. Ensured the UI reacts to changes through GetX observables. Managed API calls with proper error handling and connection checks. Optimized performance and readability by following best practices in Flutter development
